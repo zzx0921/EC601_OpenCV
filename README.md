@@ -1,4 +1,4 @@
-#EC601_OpenCV
+EC601_OpenCV
 
 
 
@@ -35,3 +35,15 @@ Exercise 3
 Gaussian filter works better for Gaussiannoise images and median filter works better for Salt-and-pepper images.
 
 With the increase of kernel size, the image becomes less clear.
+
+
+
+Exercise4
+
+2.What are the disadvantages of binary threshold?
+
+Binary threshold convert all images into black and white. It will lost other colors for colorful pictures.
+
+3.When is Adaptive Threshold useful?
+
+Adaptive Threshold is better for images which have different conditions of different regions.
