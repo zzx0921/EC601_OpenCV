@@ -5,6 +5,8 @@ Exercise 1
 
 How does a program read the cvMat object, in particular, what is the order of the pixel structure?
 
+In ColorImage.cpp, cvMat is a matrix which store the pixels of the image. It has three channels, red, green and blue. Matrix elements are stored row by row. Programs read cvMat object by using cvMatName.at(x,y). Program read the cvMat object in a similar way with the matrix object.
+
 
 Exercise 2
 
