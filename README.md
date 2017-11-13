@@ -53,5 +53,18 @@ Adaptive Threshold is better for images which have different conditions of diffe
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 The TemplateMatching exercise we did in class can be found in the TemplateMatching folder.
 
