@@ -38,6 +38,8 @@ With the increase of kernel size, the image becomes less clear.
 
 
 
+
+
 Exercise4
 
 2.What are the disadvantages of binary threshold?
@@ -47,3 +49,9 @@ Binary threshold convert all images into black and white. It will lost other col
 3.When is Adaptive Threshold useful?
 
 Adaptive Threshold is better for images which have different conditions of different regions.
+
+
+
+
+The TemplateMatching exercise we did in class can be found in the TemplateMatching folder.
+
